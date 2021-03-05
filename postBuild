@@ -19,14 +19,14 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 
 ## install interesting packages
 echo "::: installing gophernotes, gonum..."
-go get golang.org/x/tools/cmd/goimports
+## go get golang.org/x/tools/cmd/goimports
 go get -v github.com/gopherdata/gophernotes
-##go get gonum.org/v1/gonum/...
-##go get gonum.org/v1/plot/...
-##go get github.com/kniren/gota/dataframe
-##go get github.com/sajari/regression
-##go get github.com/goml/gobrain
-##go get github.com/sjwhitworth/golearn/...
+## go get gonum.org/v1/gonum/...
+## go get gonum.org/v1/plot/...
+## go get github.com/kniren/gota/dataframe
+## go get github.com/sajari/regression
+## go get github.com/goml/gobrain
+## go get github.com/sjwhitworth/golearn/...
 echo "::: installing gophernotes, gonum... [done]"
 
 ## setup environment for Go
