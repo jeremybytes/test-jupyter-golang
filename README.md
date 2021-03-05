@@ -6,4 +6,4 @@ Click below V
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeremybytes/test-jupyter-golang/main)  
 
-This is not working yet.
+This is working. (It's not very exciting, but it's working.)
